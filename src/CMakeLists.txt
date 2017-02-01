@@ -23,6 +23,7 @@ ChiSquare
 MaximalDependenceDecomposition
 MaximalDependenceDecompositionCreator
 TrainMaximalDependenceDecomposition
+topsc
 )
 
 
